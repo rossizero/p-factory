@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83570123ccaceb644bb90fd1217fb497, type: 3}
+  m_Name: PlumbusBiome1
+  m_EditorClassIdentifier: 
+  biomeFeatures:
+  - {fileID: 11400000, guid: 573217013b471d84cb1e972c55dd4195, type: 2}
+  - {fileID: 11400000, guid: 3d0fdb72c5c492c40b44b8d99cfc496e, type: 2}
+  - {fileID: 11400000, guid: a2a11c0726c98994e8745a645d20780c, type: 2}
+  - {fileID: 11400000, guid: 025b838afae6d714883680dab3939ca7, type: 2}
+  terrains:
+  - {fileID: 11400000, guid: f410cd4902ebaf14ab7e735b8652f95e, type: 2}
+  - {fileID: 11400000, guid: cfd3ed98d1b911348bae7c9dfc5e2d74, type: 2}
+  - {fileID: 11400000, guid: cfd3ed98d1b911348bae7c9dfc5e2d74, type: 2}
+  maxFeaturesPerTile: 30
+  minFeaturesPerTile: 11
+  generalFeatureDensity: 0.931
+  resources: []
+  biomeResourceDensity: 0.647
+  minHeight: 1.9
+  maxHeight: 2.5
+  biomeName: Plumbus Ore 1 Biome
+  biomeSize: 7

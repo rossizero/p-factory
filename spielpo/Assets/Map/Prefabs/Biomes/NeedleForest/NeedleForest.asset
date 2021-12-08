@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83570123ccaceb644bb90fd1217fb497, type: 3}
+  m_Name: NeedleForest
+  m_EditorClassIdentifier: 
+  biomeFeatures:
+  - {fileID: 11400000, guid: 2b0f666667428cd44bf7f96ed039192e, type: 2}
+  - {fileID: 11400000, guid: d764589a0ea7bef4a9a90d891c07168b, type: 2}
+  - {fileID: 11400000, guid: c9b1bfaef57250b45b3fc4311915562e, type: 2}
+  - {fileID: 11400000, guid: c0e0f0accce5c7e4388453a1bea8da7b, type: 2}
+  - {fileID: 11400000, guid: beb62229c7fc8f34aa03e96d8e1ea9b8, type: 2}
+  - {fileID: 11400000, guid: f3ee9044b7af07f428b6e9b403a77f89, type: 2}
+  - {fileID: 11400000, guid: 6dc1ae09003ac2c4b99940b78e221186, type: 2}
+  - {fileID: 11400000, guid: 33d78a96baf4b0049b76b7d1470526d2, type: 2}
+  terrains:
+  - {fileID: 11400000, guid: 44e8e8f993c1e9845a2e46a061f31aaf, type: 2}
+  - {fileID: 11400000, guid: 77a211c79954a7041a70cd0cae7517bf, type: 2}
+  - {fileID: 11400000, guid: 77a211c79954a7041a70cd0cae7517bf, type: 2}
+  maxFeaturesPerTile: 19
+  minFeaturesPerTile: 14
+  generalFeatureDensity: 1
+  resources:
+  - {fileID: 11400000, guid: dd0706f87f0d27a44a53dd9674e1c330, type: 2}
+  biomeResourceDensity: 1
+  minHeight: 2
+  maxHeight: 5
+  biomeName: Needle Forest
+  biomeSize: 15

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 876e3da6557708b46b95045dba9c13e8, type: 3}
+  m_Name: StandardTerrain3
+  m_EditorClassIdentifier: 
+  terrainFeatures:
+  - {fileID: 11400000, guid: 6abea776128157c409d801d3cc352195, type: 2}
+  - {fileID: 11400000, guid: 065d2b5cc9bb14d48a42d9689cd85972, type: 2}
+  - {fileID: 11400000, guid: 4ac8a1a1fc7175f449b3222c3ef6d87c, type: 2}
+  texture: {fileID: 2800000, guid: 1c8904a012360ea49890888be2872434, type: 3}
+  resources:
+  - {fileID: 11400000, guid: 92248791e01f75a459b2751ebcdce8ee, type: 2}
+  - {fileID: 11400000, guid: 419d466395629a14f89cf1ab0bd29025, type: 2}
+  - {fileID: 11400000, guid: 76c04a71225a7fc458f6cdd1e75ff5dc, type: 2}
+  resourceDensity: 0.194

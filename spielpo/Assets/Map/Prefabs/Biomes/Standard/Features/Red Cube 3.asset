@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 259bd650174b6f24c954beaab7ea5d06, type: 3}
+  m_Name: Red Cube 3
+  m_EditorClassIdentifier: 
+  feature: {fileID: 7589679009860436660, guid: cc8a339ca912a7045a8ac909d7568d5a, type: 3}
+  density: 0.066

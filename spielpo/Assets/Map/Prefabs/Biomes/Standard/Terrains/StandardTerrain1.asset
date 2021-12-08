@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 876e3da6557708b46b95045dba9c13e8, type: 3}
+  m_Name: StandardTerrain1
+  m_EditorClassIdentifier: 
+  terrainFeatures:
+  - {fileID: 11400000, guid: f3ee9044b7af07f428b6e9b403a77f89, type: 2}
+  - {fileID: 11400000, guid: d764589a0ea7bef4a9a90d891c07168b, type: 2}
+  - {fileID: 11400000, guid: c9b1bfaef57250b45b3fc4311915562e, type: 2}
+  - {fileID: 11400000, guid: beb62229c7fc8f34aa03e96d8e1ea9b8, type: 2}
+  - {fileID: 11400000, guid: f3ee9044b7af07f428b6e9b403a77f89, type: 2}
+  - {fileID: 11400000, guid: 6dc1ae09003ac2c4b99940b78e221186, type: 2}
+  - {fileID: 11400000, guid: 6dc1ae09003ac2c4b99940b78e221186, type: 2}
+  - {fileID: 11400000, guid: 6dc1ae09003ac2c4b99940b78e221186, type: 2}
+  - {fileID: 11400000, guid: 6dc1ae09003ac2c4b99940b78e221186, type: 2}
+  texture: {fileID: 2800000, guid: 8b4f0fb58144ea54ba6436d436695d93, type: 3}
+  resources:
+  - {fileID: 11400000, guid: 640003776882d6740bf753e41fa8ddf3, type: 2}
+  resourceDensity: 0.371

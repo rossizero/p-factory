@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 876e3da6557708b46b95045dba9c13e8, type: 3}
+  m_Name: Lower Flower Plains
+  m_EditorClassIdentifier: 
+  terrainFeatures:
+  - {fileID: 11400000, guid: 5d093f773455fa64db31213c1b5bb603, type: 2}
+  - {fileID: 11400000, guid: edf79b101d7843c4e9a624d9733b2280, type: 2}
+  - {fileID: 11400000, guid: 20a32723cbd28d148ae111c1deb2f27e, type: 2}
+  - {fileID: 11400000, guid: f3ee9044b7af07f428b6e9b403a77f89, type: 2}
+  - {fileID: 11400000, guid: 6dc1ae09003ac2c4b99940b78e221186, type: 2}
+  - {fileID: 11400000, guid: 33d78a96baf4b0049b76b7d1470526d2, type: 2}
+  texture: {fileID: 2800000, guid: 8b4f0fb58144ea54ba6436d436695d93, type: 3}
+  resources:
+  - {fileID: 11400000, guid: 640003776882d6740bf753e41fa8ddf3, type: 2}
+  resourceDensity: 0.193

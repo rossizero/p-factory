@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83570123ccaceb644bb90fd1217fb497, type: 3}
+  m_Name: Flower Plains
+  m_EditorClassIdentifier: 
+  biomeFeatures: []
+  terrains:
+  - {fileID: 11400000, guid: f4052c2ac7ccde14fa495e151655a624, type: 2}
+  - {fileID: 11400000, guid: fba6fa55d2eaf4e4e90f1105e227e476, type: 2}
+  maxFeaturesPerTile: 50
+  minFeaturesPerTile: 25
+  generalFeatureDensity: 1
+  resources: []
+  biomeResourceDensity: 0.857
+  minHeight: 1
+  maxHeight: 2.3
+  biomeName: Flower Plains
+  biomeSize: 35

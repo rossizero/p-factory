@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83570123ccaceb644bb90fd1217fb497, type: 3}
+  m_Name: Standard
+  m_EditorClassIdentifier: 
+  biomeFeatures: []
+  terrains:
+  - {fileID: 11400000, guid: 59eddf8c28bcc9a47b0e9bb0cf892183, type: 2}
+  - {fileID: 11400000, guid: 59eddf8c28bcc9a47b0e9bb0cf892183, type: 2}
+  - {fileID: 11400000, guid: 1ca7bd6132c29c947af60d059117b39e, type: 2}
+  - {fileID: 11400000, guid: 84d080da9d477a242a9ffa472ed1a783, type: 2}
+  - {fileID: 11400000, guid: 6f532ea8828f6134690042b8e36b5bb4, type: 2}
+  maxFeaturesPerTile: 10
+  minFeaturesPerTile: 0
+  generalFeatureDensity: 0.697
+  resources: []
+  biomeResourceDensity: 0.629
+  minHeight: 0.2
+  maxHeight: 7
+  biomeName: Standard
+  biomeSize: 70
